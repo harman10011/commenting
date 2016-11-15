@@ -1,0 +1,66 @@
+body {
+	background-image: url(../img/trump.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100% ;
+	background-attachment: fixed;
+	background-position: center center center;
+	text-align: center;
+	display: block;
+}
+
+h1 {
+	margin: 0;
+	font-size: 40px;
+	color: #0BC6E0;
+    font-family: 'Delius Unicase', cursive;
+    text-shadow: 2px solid red;
+
+}
+
+li {
+	list-style: none;
+}
+
+input {
+	margin-top: 190px;
+	width: 30%;
+	background-color: transparent;
+	color: white;
+	border: 1px solid #D3D3D3 ;
+	
+}
+textarea {
+	width: 30%;
+	margin-top: 10px;
+	background-color: transparent;
+	color: white;
+	border: 1px solid #D3D3D3 ;
+}
+
+p{
+  font-size: 20px;
+  color: white;
+  text-align: right;
+  border:1px solid black;
+  background-color: black;
+  padding-right: 20px
+ 
+}
+
+#newH1 {
+	font-family: 'Chewy', cursive;
+	text-align: left;
+	padding-left: 20px
+}
+
+li {
+	background-color: black;
+	width:50%;
+	margin-left: 25%;
+	margin-top: 20px;
+	border-radius: 10px 10px 10px 10px
+}
+
+button {
+	background-color: red
+}
